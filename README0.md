@@ -1,8 +1,8 @@
 # CPSC350_SP21_ASSIGNMENT0
 # Identifying Information:
-  Isabella Sills
-  2343865
-  sills@chapman.edu
+* Isabella Sills
+* 2343865
+* sills@chapman.edu
   
 # What I'm most excited for in CPSC 350
   I am looking forward to learning about the various types of data strucutres and the best implementation for them. I hope to be able to expand and further develop
